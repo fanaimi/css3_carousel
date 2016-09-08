@@ -1,0 +1,31 @@
+{
+  "name": "css3_carousel",
+  "version": "1.0.0",
+  "description": "css3 driven carousel with mulpiple layers",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanaimi/css3_carousel.git"
+  },
+  "keywords": [
+    "fanaimi",
+    "css3",
+    "carousel"
+  ],
+  "author": "Fanaimi, Emiliano Fantasia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fanaimi/css3_carousel/issues"
+  },
+  "homepage": "https://github.com/fanaimi/css3_carousel#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0"
+  },
+  "devDependencies": {
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
