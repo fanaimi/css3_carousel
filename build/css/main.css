@@ -41,6 +41,7 @@ h1, h2{
 h1{
     font-size:26px;
     margin: 12px 0;
+    font-weight: bold;
 }
 
 /* =====================  MAIN  SECTION ==== */
@@ -71,7 +72,17 @@ footer{
     height: 400px;
 }
 
+.box p{
+    padding:10px 30px;
+    text-align: center;
+}
 
+.box a{
+    font-weight: bold;
+    color: #333;
+    text-decoration: none;
+}
+.box a:hover{text-decoration: underline;}
 
 
 /* =====================  CAROUSEL EXERCISE  SECTION ==== */
